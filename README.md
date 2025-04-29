@@ -1,5 +1,5 @@
 # admaloch
-# admaloch
+
 <h1>Hi 👋, I'm Davis</h1>
 <p>A passionate full-stack developer from Austin Texas</p>
 <p>
@@ -10,18 +10,19 @@
 <p>Checkout some of the main Projects on my page!</p>
 <ul>
   <li>
-    <a href="https://blackjack-react.netlify.app/"
-      >Multiplayer blackjack game with UI</a
-    >
-    <img src="images/react-blackjack.png" alt="blackjack screenshot" />
+    <a href="https://blackjack-react.netlify.app/">
+      Multiplayer blackjack game with UI
+    </a><br />
+    <img src="images/react-blackjack.png" alt="blackjack screenshot" style="width: 300px; max-width: 100%; height: auto;" />
   </li>
   <li>
-    <a href="https://movie-brain.netlify.app/"
-      >Movie search app with user accounts and reviews -- built with MERN</a
-    >
-    <img src="images/react-movies.png" alt="movie brain" />
+    <a href="https://movie-brain.netlify.app/">
+      Movie search app with user accounts and reviews -- built with MERN
+    </a><br />
+    <img src="images/react-movies.png" alt="movie brain" style="width: 300px; max-width: 100%; height: auto;" />
   </li>
 </ul>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
   <a
