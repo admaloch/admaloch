@@ -1,6 +1,6 @@
 <p>
   <img 
-    src="images/portfolio-screenshot.png" 
+    src="images/portfolio-banner.png" 
     alt="Portfolio Banner" 
     style="width: 100%; max-width: 900px; display: block; margin: 0 auto; border-radius: 12px;" 
   />
@@ -215,7 +215,7 @@
     style="display: inline-block"
     ><img
       src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6"
-      alt="linkedin"
+      alt="portfolio"
   /></a>
 </p>
 
