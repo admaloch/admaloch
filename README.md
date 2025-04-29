@@ -15,13 +15,18 @@
     <a target="_blank" href="https://blackjack-react.netlify.app/">
       Multiplayer blackjack game with UI
     </a><br />
-    <img src="images/react-blackjack.png" alt="blackjack screenshot" style="padding: 10px; width: 200px; max-width: 100%; height: auto;" />
+    <div style="padding: 10px">
+        <img src="images/react-blackjack.png" alt="blackjack screenshot" style="padding: 10px; width: 200px; max-width: 100%; height: auto;" />
+    </div>
+    
   </li>
   <li>
     <a target="_blank" href="https://movie-brain.netlify.app/">
       Movie search app with user accounts and reviews -- built with MERN
     </a><br />
-    <img src="images/react-movies.png" alt="movie brain" style="padding: 10px; width: 200px; max-width: 100%; height: auto;" />
+    <div style="padding: 10px">
+        <img src="images/react-movies.png" alt="movie brain" style="padding: 10px; width: 200px; max-width: 100%; height: auto;" />
+    </div>
   </li>
 </ul>
 
