@@ -1,9 +1,3 @@
-<style>
-.banner-img {
-    border-radius: 10px;
-}
-</style>
-
 <p>
   <img 
     class="banner-img"
@@ -26,8 +20,8 @@
     <a target="_blank" href="https://blackjack-react.netlify.app/">
       Multiplayer blackjack game with UI
     </a><br />
-    <div style="padding: 10px">
-        <img src="images/react-blackjack.png" alt="blackjack screenshot" style="padding: 10px; width: 200px; max-width: 100%; height: auto;" />
+    <div style="margin-top: 10px">
+        <img src="images/react-blackjack.png" alt="blackjack screenshot" style="width: 200px; max-width: 100%; height: auto;" />
     </div>
     
   </li>
@@ -35,8 +29,8 @@
     <a target="_blank" href="https://movie-brain.netlify.app/">
       Movie search app with user accounts and reviews -- built with MERN
     </a><br />
-    <div style="padding: 10px">
-        <img src="images/react-movies.png" alt="movie brain" style="padding: 10px; width: 200px; max-width: 100%; height: auto;" />
+    <div style="margin-top: 10px">
+        <img src="images/react-movies.png" alt="movie brain" style=" width: 200px; max-width: 100%; height: auto;" />
     </div>
   </li>
 </ul>
