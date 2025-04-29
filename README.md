@@ -1,4 +1,6 @@
-# admaloch
+<p>
+  <img src="images/portfolio-screenshot.png" alt="Portfolio Banner" style="width: 100%; max-width: 900px; display: block; margin: 0 auto;" />
+</p>
 
 <h1>Hi 👋, I'm Davis</h1>
 <p>A passionate full-stack developer from Austin Texas</p>
