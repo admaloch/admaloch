@@ -1,5 +1,9 @@
 <p>
-  <img src="images/portfolio-screenshot.png" alt="Portfolio Banner" style="width: 100%; max-width: 900px; display: block; margin: 0 auto;" />
+  <img 
+    src="images/portfolio-screenshot.png" 
+    alt="Portfolio Banner" 
+    style="width: 100%; max-width: 900px; display: block; margin: 0 auto; border-radius: 12px;" 
+  />
 </p>
 
 <h1>Hi 👋, I'm Davis</h1>
@@ -205,12 +209,16 @@
   /></a>
 </p>
 <p>
-<a
+  <a
     target="_blank"
     href="https://davismaloch.netlify.app/"
     style="display: inline-block"
-    >Portfolio site</a>
+    ><img
+      src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6"
+      alt="linkedin"
+  /></a>
 </p>
+
 <p>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=admaloch&show_icons=true&locale=en&layout=compact"
