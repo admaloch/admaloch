@@ -1,5 +1,12 @@
+<style>
+.banner-img {
+    border-radius: 10px;
+}
+</style>
+
 <p>
   <img 
+    class="banner-img"
     src="images/portfolio-banner.png" 
     alt="Portfolio Banner" 
     style="width: 100%; max-width: 900px; display: block; margin: 0 auto; border-radius: 12px;" 
@@ -213,10 +220,7 @@
     target="_blank"
     href="https://davismaloch.netlify.app/"
     style="display: inline-block"
-    ><img
-      src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6"
-      alt="portfolio"
-  /></a>
+    >Portfolio</a>
 </p>
 
 <p>
