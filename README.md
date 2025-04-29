@@ -10,16 +10,16 @@
 <p>Checkout some of the main Projects on my page!</p>
 <ul>
   <li>
-    <a href="https://blackjack-react.netlify.app/">
+    <a target="_blank" href="https://blackjack-react.netlify.app/">
       Multiplayer blackjack game with UI
     </a><br />
-    <img src="images/react-blackjack.png" alt="blackjack screenshot" style="width: 300px; max-width: 100%; height: auto;" />
+    <img src="images/react-blackjack.png" alt="blackjack screenshot" style="padding: 1rem; width: 200px; max-width: 100%; height: auto;" />
   </li>
   <li>
-    <a href="https://movie-brain.netlify.app/">
+    <a target="_blank" href="https://movie-brain.netlify.app/">
       Movie search app with user accounts and reviews -- built with MERN
     </a><br />
-    <img src="images/react-movies.png" alt="movie brain" style="width: 300px; max-width: 100%; height: auto;" />
+    <img src="images/react-movies.png" alt="movie brain" style="padding: 1rem; width: 200px; max-width: 100%; height: auto;" />
   </li>
 </ul>
 
@@ -190,7 +190,7 @@
 <p>
   <a
     target="_blank"
-    href="https://www.linkedin.com/in/https://www.linkedin.com/in/andrew-maloch-631804250/"
+    href="https://www.linkedin.com/in/andrew-maloch-631804250/"
     style="display: inline-block"
     ><img
       src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6"
