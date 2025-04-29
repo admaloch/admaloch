@@ -15,13 +15,13 @@
     <a target="_blank" href="https://blackjack-react.netlify.app/">
       Multiplayer blackjack game with UI
     </a><br />
-    <img src="images/react-blackjack.png" alt="blackjack screenshot" style="padding: 1rem; width: 200px; max-width: 100%; height: auto;" />
+    <img src="images/react-blackjack.png" alt="blackjack screenshot" style="padding: 10px; width: 200px; max-width: 100%; height: auto;" />
   </li>
   <li>
     <a target="_blank" href="https://movie-brain.netlify.app/">
       Movie search app with user accounts and reviews -- built with MERN
     </a><br />
-    <img src="images/react-movies.png" alt="movie brain" style="padding: 1rem; width: 200px; max-width: 100%; height: auto;" />
+    <img src="images/react-movies.png" alt="movie brain" style="padding: 10px; width: 200px; max-width: 100%; height: auto;" />
   </li>
 </ul>
 
@@ -200,11 +200,11 @@
   /></a>
 </p>
 <p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=admaloch&"
-    alt="admaloch"
-  />
+<a
+    target="_blank"
+    href="https://davismaloch.netlify.app/"
+    style="display: inline-block"
+    >Portfolio site</a>
 </p>
 <p>
   <img
