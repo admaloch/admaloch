@@ -40,7 +40,7 @@ An **open-source RAG (Retrieval-Augmented Generation) engine** built as a modula
 | **Photo Order Automation** | Internal batch scripting tool for Florida Memory that automated manual workflows, reducing errors and operational effort. | `Batch Scripting` `Systems Integration` | [Repository](https://github.com/admaloch/photo-invoice-search-tool) |
 | **MovieBrain** | Full-stack movie discovery platform with user authentication, reviews, and a RESTful API. | `React` `TypeScript` `Node.js` `Express` `MongoDB` `Redux` | [Repository](https://github.com/admaloch/react-movie-search) |
 | **Flourish Accessibility Menu** | Production-grade, standalone JavaScript plugin built for Florida Memory to enhance website accessibility for a state archives. | `JavaScript` `jQuery` `WCAG` | [Repository](https://github.com/admaloch/flourish-accessibility-menu) |
-
+| **Multiplayer BlackJack Game** | A real-time application built to explore complex stateful logic and CI/CD, featuring persistent data storage and a deployment pipeline automated with GitHub Actions. |`React` `TypeScript` `Node` `Express` `MongoDB` `Mongoose` `Live Demo` `GitHub` | [Repository](https://github.com/admaloch/react-blackjack) |
 
 ---
 
